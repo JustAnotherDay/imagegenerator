@@ -1,0 +1,7 @@
+{
+    "name": "justanotherboring/myimagegenerator",
+    "description": "generate images",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {}
+}
